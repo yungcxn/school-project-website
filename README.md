@@ -2,7 +2,7 @@
 
 ## What it is about
 My website for a school project, where I run my own real company.
-I have to build a e-commerce where we sell T-Shirts (because that I need to confront the Law.)
+I have to build a e-commerce where we sell T-Shirts (because that I need to confront the law.)
 
 ## My job
 I need to develop the front-end and server-side.
